@@ -1,0 +1,33 @@
+p {
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+input {
+    width: 195px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0px;
+}
+
+li {
+    display: inline;
+    margin-right: 200px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+button{
+    width: 200px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightgreen;
+
+}
